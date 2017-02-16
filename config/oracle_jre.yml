@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.8.0_12+
-  repository_root: "https://oracle-jdk.repo.cfapps.io/"
+  repository_root: "http://oracle-jdk.repo.cfapps.io/"
 memory_calculator:
   version: 2.+
   repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
